@@ -11,6 +11,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "extra": {
+      "OPENAI_API_KEY": "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"
+    },
     "assetBundlePatterns": [
       "**/*"
     ],
